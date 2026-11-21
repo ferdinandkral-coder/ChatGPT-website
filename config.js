@@ -1,6 +1,6 @@
 // Supabase Browser-Konfiguration.
-// Nur Project URL + anon/public key eintragen. Niemals service_role verwenden.
+// Publishable Key ist für Browser vorgesehen; niemals Secret/service_role eintragen.
 window.APP_CONFIG = {
-  SUPABASE_URL: "https://DEIN-PROJEKT.supabase.co",
-  SUPABASE_ANON_KEY: "DEIN_SUPABASE_ANON_KEY"
+  SUPABASE_URL: "https://knaoxypzxvuznkugsazx.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_3uKEdnfGFUP9ONQ6gCCfOw_-hKt0m93"
 };
